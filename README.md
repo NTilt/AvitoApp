@@ -1,2 +1,2 @@
 # AvitoApp
-Avito Test Task
+Решение можно найти в папке AvitoApp. Чтобы его запустить достаточно вызвать '.xcodeproj'.
